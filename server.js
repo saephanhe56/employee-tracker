@@ -250,13 +250,13 @@ async function updateEmployee() {
             type: "list",
             name: "id",
             message: "Which employee do you want to update?",
-            choices: showEmp
+            choices: showEmp,
         },
         {
             type: "list",
             name: "role_id",
             message: "Which role do you the employee updated to?",
-            choices: showRoles
+            choices: showRoles,
         }
     ]);
     // update prepared statement for employees role

@@ -18,7 +18,7 @@ ISC
 ## Links
 
 Github Repo: https://github.com/saephanhe56/employee-tracker
-Video Link: 
+Video Link: https://drive.google.com/file/d/1-xULl7CN1wQKbCdlyyoDMBk8UL-Z94-Z/view
 
 ## Mockup Example Product 
-![screenshot]
+![screenshot](./assets/emptracker.png)
